@@ -1,5 +1,3 @@
-package test1;
-
 import java.io.PrintStream;
 
 class Animal
