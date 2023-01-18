@@ -11,7 +11,7 @@ class Animal
         System.out.println("이름:"+this.name);
         System.out.println("몸무게:"+this.kg);
         System.out.println("색:"+this.color);
-        return System.out.printf("짖는소리:"+speck);
+        return System.out.printf("짖는소리:"+speck+"\n");
 
     }
 }
