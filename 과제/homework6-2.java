@@ -16,7 +16,7 @@ class Animal
     }
 }
 
-public class homework6-2 extends Animal
+public class homework6_2 extends Animal
 {
     public static void main(String[] args)
     {
